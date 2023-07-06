@@ -11,3 +11,4 @@
 - [x] Lesson 07: Get One Book by id with mongoose
 - [x] Lesson 08: Update a Book with mongoose
 - [x] Lesson 09: Delete a book with mongoose
+- [x] Lesson 10: Refactor Node js with express router
