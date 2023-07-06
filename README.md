@@ -9,3 +9,4 @@
 - [x] Lesson 05: Save a new Book with mongoose
 - [x] Lesson 06: Get All Books with mongoose
 - [x] Lesson 07: Get One Book by id with mongoose
+- [x] Lesson 08: Update a Book with mongoose
