@@ -12,3 +12,4 @@
 - [x] Lesson 08: Update a Book with mongoose
 - [x] Lesson 09: Delete a book with mongoose
 - [x] Lesson 10: Refactor Node js with express router
+- [x] Lesson 11: CORS policy in Node js and Express js
