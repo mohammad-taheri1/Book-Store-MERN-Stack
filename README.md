@@ -16,3 +16,4 @@
 - [x] Lesson 12: Create React project, Vite, Tailwind CSS
 - [x] Lesson 13: SPA and Add react router dom
 - [x] Lesson 14: Show Books List in React
+- [x] Lesson 15: Show Book Details in React
