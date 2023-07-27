@@ -20,3 +20,4 @@
 - [x] Lesson 16: Create Book in React
 - [x] Lesson 17: Edit Book in React
 - [x] Lesson 18: Delete Book in React
+- [x] Lesson 19: Show Books List as Card
