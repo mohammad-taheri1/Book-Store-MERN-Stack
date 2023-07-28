@@ -23,3 +23,4 @@
 - [x] Lesson 19: Show Books List as Card
 - [x] Lesson 20: Make Book Card a single component
 - [x] Lesson 21: Add Book Modal
+- [x] Lesson 22: Increase UX with beautiful alert
