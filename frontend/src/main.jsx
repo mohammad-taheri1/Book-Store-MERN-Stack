@@ -12,3 +12,14 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </SnackbarProvider>
   </BrowserRouter>
 );
+
+
+// ReactDOM.createRoot(document.getElementById('root')).render(
+//   <React.StrictMode>
+//     <BrowserRouter>
+//       <SnackbarProvider>
+//         <App />
+//       </SnackbarProvider>
+//     </BrowserRouter>
+//   </React.StrictMode>
+// );
